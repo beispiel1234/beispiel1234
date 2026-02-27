@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Beispiel123abc)](https://github.com/ignacio-cuadra/github-readme-codewars)
 <!--
 **beispiel1234/beispiel1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
