@@ -1,3 +1,8 @@
+;;-----------------------------------------------------------------
+;;Written by beispiel1234 in 2024.
+;;Give credit when reusing Code.
+;;-----------------------------------------------------------------
+
 %define SYS_WRITE	1
 %define SYS_EXIT	60
 %define STDOUT		1
