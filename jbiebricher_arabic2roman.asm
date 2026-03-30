@@ -1,6 +1,6 @@
 ;;-----------------------------------------------------------------
-Written by beispiel1234 in 2024.
-Give credit when reusing Code.
+;;Written by beispiel1234 in 2024.
+;;Give credit when reusing Code.
 ;;-----------------------------------------------------------------
 
 %define SYS_WRITE	1
